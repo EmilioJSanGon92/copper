@@ -6,6 +6,10 @@ This is tasks to do with the project.
    
 https://cds.climate.copernicus.eu/api-how-to
 
+Maybe better to use a different API: https://cds.climate.copernicus.eu/toolbox-editor
+
+
+
 ## 2. Get to know data formats
 
 Transform to `pandas` format
