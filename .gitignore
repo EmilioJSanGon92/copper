@@ -1,1 +1,3 @@
 env
+*.grib
+*.tar.gz
